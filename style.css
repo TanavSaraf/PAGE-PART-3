@@ -1,0 +1,29 @@
+
+body{
+    background:#001819;
+    color:#fff8dc;
+}
+
+
+.ABC,.ABCD{
+    background-color: #fafafa;
+    display:flex ;
+    flex-direction:row;
+    flex-wrap: wrap;
+    justify-content:space-around;
+    justify-content: space-evenly;
+}
+.items{
+    background-color:#ffa33f;
+  
+}
+.L2{
+    display:flex;
+    color:#001819;
+    justify-content: flex-start;
+  }
+  .rt{
+      display: flex;
+      justify-content: end;
+  }
+  
